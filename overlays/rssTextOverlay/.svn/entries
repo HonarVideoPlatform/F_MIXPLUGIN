@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/overlays/rssTextOverlay
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/overlays/rssTextOverlay
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 
 
@@ -32,12 +32,12 @@ file
 
 
 
-2017-07-03T23:29:55.000000Z
+2017-07-03T23:30:08.000000Z
 33e208a634a8f9704184bc270c9ff99b
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2017-07-03T23:29:55.000000Z
+2017-07-03T23:30:08.000000Z
 d61199e31b6255baa1bfefdbabd1b4bb
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:29:55.000000Z
+2017-07-03T23:30:08.000000Z
 4877f0873ae3db91f1481d3303291f28
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 

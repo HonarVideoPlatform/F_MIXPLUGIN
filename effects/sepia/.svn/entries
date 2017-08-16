@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/effects/sepia
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/effects/sepia
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:29:41.000000Z
+2017-07-03T23:30:04.000000Z
 05c07a925d3c93cca72c7e1671ab16aa
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:29:41.000000Z
+2017-07-03T23:30:04.000000Z
 13386aaf6c2d2a7a739d22297f20b01f
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:29:41.000000Z
+2017-07-03T23:30:04.000000Z
 1fb2e6bc64643d24ff19d22ca8e99a1e
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 

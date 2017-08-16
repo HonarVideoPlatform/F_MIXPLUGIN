@@ -4252,7 +4252,6 @@
             <item kind="22" name_index="35" type="Namespace"/>
             <item kind="22" name_index="39" type="Namespace"/>
             <item kind="22" name_index="43" type="Namespace"/>
-            <item kind="22" name_index="1" type="Namespace"/>
           </constant_namespace>
           <constant_namespace_set>
             <item isNull="true"/>

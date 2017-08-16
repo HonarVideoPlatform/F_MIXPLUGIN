@@ -97,7 +97,7 @@
 			<description>
 			</description>
 		</plugin>
-		<plugin label="Glowing Star" plugin_id="glowing_star" thumbnail="" creator="Yair Even-Or">
+		<plugin label="Glowing Star" plugin_id="glowing_star" thumbnail="" creator="Eitan Avgil">
 			<description>
 			</description>
 		</plugin>
@@ -181,7 +181,7 @@
 	</category>
 	
 	<category type="Bad Things">
-		 <plugin label="Dripping Blood" plugin_id="dripping_blood" thumbnail="" creator="Yair Even-Or">
+		 <plugin label="Dripping Blood" plugin_id="dripping_blood" thumbnail="" creator="Eitan Avgil">
 			<description>
 			</description>
 		 </plugin>

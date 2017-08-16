@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/BrushAway
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/BrushAway
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:42:19.841369Z
+2508
 svnuser
 
 
@@ -26,50 +26,16 @@ svnuser
 
 09e43ab6-4768-4770-81d3-4e3a7c8fdb74
 
-PaintBrush.fla
-file
-
-
-
-
-2017-07-03T23:30:03.000000Z
-c618596294bb1290059585991212a660
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11190272
-
 thumbnail.swf
 file
 
 
 
 
-2017-07-03T23:30:03.000000Z
+2017-07-03T23:30:21.000000Z
 3864c4cdcb34df0df10dc747c8692993
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -100,10 +66,10 @@ file
 
 
 
-2017-07-03T23:30:03.000000Z
+2017-07-03T23:30:21.000000Z
 6f729389de54850756569ec83e100a78
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -134,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:03.000000Z
+2017-07-03T23:30:21.000000Z
 fe47784043dbe4485e1f27ebf58f4b5c
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -168,12 +134,12 @@ file
 
 
 
-2017-07-03T23:30:03.000000Z
+2017-07-03T23:30:21.000000Z
 bebfd97dd6ff48334103dba4f81a958e
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -202,10 +168,10 @@ file
 
 
 
-2017-07-03T23:30:03.000000Z
+2017-07-03T23:30:21.000000Z
 786bb6347c579d939818c874bde7d876
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 

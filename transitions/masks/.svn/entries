@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/masks
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/masks
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2010-03-18T14:54:27.802183Z
+2889
+hila
 
 
 
@@ -26,51 +26,17 @@ svnuser
 
 09e43ab6-4768-4770-81d3-4e3a7c8fdb74
 
-PaintBrush.fla
-file
-
-
-
-
-2017-07-03T23:30:00.000000Z
-14957f7804d653405808535720f8a91e
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9290240
-
 masks.swf
 file
 
 
 
 
-2017-07-03T23:30:00.000000Z
-70356d5a8e7ae844345c383ceb310322
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2017-07-03T23:30:20.000000Z
+6e161a666fcf3fc79e144b17604a1835
+2010-03-18T14:54:27.802183Z
+2889
+hila
 has-props
 
 
@@ -92,7 +58,7 @@ has-props
 
 
 
-2520
+2166
 
 PaintBrush.swf
 file
@@ -100,10 +66,10 @@ file
 
 
 
-2017-07-03T23:30:00.000000Z
+2017-07-03T23:30:20.000000Z
 99cedf0f4e1e417607d2089aa0a94a59
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 

@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/oldschool_countdown
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/oldschool_countdown
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2010-03-17T07:04:24.353145Z
+2871
+hila
 
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:01.000000Z
+2017-07-03T23:30:20.000000Z
 0d33e2e7eb719eabb47c8732012b0e35
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:01.000000Z
-85fb09de9ff67372b12aa199c3b1c81e
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2017-07-03T23:30:20.000000Z
+1236d6b689f0ab48d8aaf623d982bb2d
+2010-03-17T07:04:24.353145Z
+2871
+hila
 has-props
 
 
@@ -92,41 +92,7 @@ has-props
 
 
 
-2571
-
-oldschool_countdown
-file
-
-
-
-
-2017-07-03T23:30:01.000000Z
-63b253c37a6a197b57b650cee6d67ed6
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2530
+2130
 
 restrictions.xml
 file
@@ -134,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:01.000000Z
+2017-07-03T23:30:20.000000Z
 11a6fd602d18344d772c12b1c925840f
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -168,10 +134,10 @@ file
 
 
 
-2017-07-03T23:30:01.000000Z
+2017-07-03T23:30:20.000000Z
 e0d25e58b3c2944db4adcd4973e6fc7b
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -202,12 +168,12 @@ file
 
 
 
-2017-07-03T23:30:01.000000Z
+2017-07-03T23:30:20.000000Z
 7aee247fc0dac2420722cfd476d3b348
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 

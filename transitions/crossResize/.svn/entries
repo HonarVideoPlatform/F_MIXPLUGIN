@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/crossResize
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/crossResize
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:29:59.000000Z
+2017-07-03T23:30:20.000000Z
 cb82aed840c1dcbbd1851354275eef59
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:29:59.000000Z
+2017-07-03T23:30:20.000000Z
 e01c192f3e811269031f343819a46c0a
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2017-07-03T23:29:59.000000Z
+2017-07-03T23:30:20.000000Z
 84449930686c3289e6aeefcfbb06e68f
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -134,12 +134,12 @@ file
 
 
 
-2017-07-03T23:29:59.000000Z
+2017-07-03T23:30:20.000000Z
 b12f816aa7b61122512f2cb346f20b10
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 

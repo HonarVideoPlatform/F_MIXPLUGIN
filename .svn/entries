@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-11T14:36:22.832067Z
-2501
-svnuser
+2010-03-18T15:19:05.453164Z
+2918
+hila
 
 
 
@@ -35,12 +35,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 7bc8bce4aa8b911b015963b2154b2218
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -75,11 +75,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
-f78c5376fe126bb5362063928f9bf255
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2017-07-03T23:30:21.000000Z
+a4b2cf96ad2415096710ee825df682dd
+2010-02-11T10:16:30.887062Z
+2639
+eitan
+has-props
 
 
 
@@ -100,8 +101,7 @@ svnuser
 
 
 
-
-6620
+6618
 
 transitions
 dir

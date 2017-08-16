@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/glowing_star
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/glowing_star
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2010-03-18T15:19:05.453164Z
+2918
+hila
 
 
 
@@ -26,50 +26,16 @@ svnuser
 
 09e43ab6-4768-4770-81d3-4e3a7c8fdb74
 
-glowing_star
-file
-
-
-
-
-2017-07-03T23:29:58.000000Z
-63b253c37a6a197b57b650cee6d67ed6
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2530
-
 thumbnail.swf
 file
 
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 c66e6020c11f0d2b8c76ee45aaba66b5
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -100,12 +66,12 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 a0cde00606e06669465bc24a81f75748
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -134,10 +100,10 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 03452adf32838ed0c094d56cf3377785
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -168,12 +134,12 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 e4d4d79c3b52e9d1f24d8c055808d55a
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -202,11 +168,11 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
-85fb09de9ff67372b12aa199c3b1c81e
-2009-12-28T12:38:48.002405Z
-2373
-svnuser
+2017-07-03T23:30:20.000000Z
+6e161a666fcf3fc79e144b17604a1835
+2010-03-18T15:19:05.453164Z
+2918
+hila
 has-props
 
 
@@ -228,5 +194,5 @@ has-props
 
 
 
-2571
+2166
 

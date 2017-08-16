@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v1.0/transitions/PixelDissolve
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/PixelDissolve
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 d027a38068017946a9cff75d7b5c4072
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 1e27e44e0bf247a9e1671e6cf0d7eb71
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 725e390c33197f8ac8087975a55082b8
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
 has-props
 
@@ -134,12 +134,12 @@ file
 
 
 
-2017-07-03T23:29:58.000000Z
+2017-07-03T23:30:20.000000Z
 4c9620745bfccd477c111a880f5091f4
-2009-12-28T12:38:48.002405Z
-2373
+2010-01-13T11:39:58.978166Z
+2506
 svnuser
-
+has-props
 
 
 

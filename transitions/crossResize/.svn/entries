@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/crossResize
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v4.0/transitions/crossResize
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:37.000000Z
 cb82aed840c1dcbbd1851354275eef59
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -66,10 +66,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:37.000000Z
 e01c192f3e811269031f343819a46c0a
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:37.000000Z
 84449930686c3289e6aeefcfbb06e68f
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -134,10 +134,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:37.000000Z
 b12f816aa7b61122512f2cb346f20b10
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 

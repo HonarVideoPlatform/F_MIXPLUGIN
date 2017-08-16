@@ -18,6 +18,49 @@
       <frameNums/>
       <frameNames/>
     </item>
+    <item shapeId="1" type="DefineShapeTag">
+      <shapeBounds Xmax="280" Xmin="0" Ymax="280" Ymin="0" nbits="10" type="RECT"/>
+      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="255" green="255" red="255" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="10" moveDeltaX="280" moveDeltaY="140" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item anchorDeltaX="-41" anchorDeltaY="41" controlDeltaX="0" controlDeltaY="58" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-58" anchorDeltaY="0" controlDeltaX="-41" controlDeltaY="41" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="-41" anchorDeltaY="-41" controlDeltaX="-58" controlDeltaY="0" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="0" anchorDeltaY="-58" controlDeltaX="-41" controlDeltaY="-41" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="41" anchorDeltaY="-41" controlDeltaX="0" controlDeltaY="-58" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="58" anchorDeltaY="0" controlDeltaX="41" controlDeltaY="-41" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="41" anchorDeltaY="41" controlDeltaX="58" controlDeltaY="0" numBits="5" type="CurvedEdgeRecord"/>
+          <item anchorDeltaX="0" anchorDeltaY="58" controlDeltaX="41" controlDeltaY="41" numBits="5" type="CurvedEdgeRecord"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="2" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="1" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="38619" scaleY="38619" translateX="0" translateY="0" type="MATRIX"/>
+          <colorTransform alphaAddTerm="0" alphaMultTerm="154" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+        </item>
+        <item characterId="1" clipDepth="0" depth="2" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="6" rotateSkew0="0" rotateSkew1="0" scaleX="24275" scaleY="24275" translateX="31" translateY="31" type="MATRIX"/>
+          <colorTransform alphaAddTerm="0" alphaMultTerm="154" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item characterId="2" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+      <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="3437" translateY="3698" type="MATRIX"/>
+    </item>
     <item flags="1" name="" type="DoABC2Tag">
       <abc type="ABC">
         <version major="46" minor="16" type="ABCVersion"/>
@@ -31,7 +74,7 @@
           <constant_string>
             <item isNull="true"/>
             <item/>
-            <item>FlakeBalll</item>
+            <item>Flake</item>
             <item>flash.display</item>
             <item>MovieClip</item>
             <item>Object</item>
@@ -99,7 +142,7 @@
           <item init_index="2" type="ScriptInfo">
             <traits type="Traits">
               <traits>
-                <item bytes="01040100" class_info="0" fileOffset="264" kindFlags="0" kindType="4" name_index="1" slot_id="1" type="TraitClass">
+                <item bytes="01040100" class_info="0" fileOffset="384" kindFlags="0" kindType="4" name_index="1" slot_id="1" type="TraitClass">
                   <metadata/>
                 </item>
               </traits>
@@ -128,56 +171,13 @@
         </bodies>
       </abc>
     </item>
-    <item shapeId="1" type="DefineShapeTag">
-      <shapeBounds Xmax="280" Xmin="0" Ymax="280" Ymin="0" nbits="10" type="RECT"/>
-      <shapes numFillBits="1" numLineBits="0" type="SHAPEWITHSTYLE">
-        <fillStyles type="FILLSTYLEARRAY">
-          <fillStyles>
-            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
-              <color blue="255" green="255" red="255" type="RGB"/>
-            </item>
-          </fillStyles>
-        </fillStyles>
-        <lineStyles type="LINESTYLEARRAY">
-          <lineStyles/>
-        </lineStyles>
-        <shapeRecords>
-          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="10" moveDeltaX="280" moveDeltaY="140" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
-          <item anchorDeltaX="-41" anchorDeltaY="41" controlDeltaX="0" controlDeltaY="58" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="-58" anchorDeltaY="0" controlDeltaX="-41" controlDeltaY="41" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="-41" anchorDeltaY="-41" controlDeltaX="-58" controlDeltaY="0" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="0" anchorDeltaY="-58" controlDeltaX="-41" controlDeltaY="-41" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="41" anchorDeltaY="-41" controlDeltaX="0" controlDeltaY="-58" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="58" anchorDeltaY="0" controlDeltaX="41" controlDeltaY="-41" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="41" anchorDeltaY="41" controlDeltaX="58" controlDeltaY="0" numBits="5" type="CurvedEdgeRecord"/>
-          <item anchorDeltaX="0" anchorDeltaY="58" controlDeltaX="41" controlDeltaY="41" numBits="5" type="CurvedEdgeRecord"/>
-          <item endOfShape="0" type="EndShapeRecord"/>
-        </shapeRecords>
-      </shapes>
-    </item>
-    <item frameCount="1" hasEndTag="true" spriteId="2" type="DefineSpriteTag">
-      <subTags>
-        <item characterId="1" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
-          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="17" nTranslateBits="0" rotateSkew0="0" rotateSkew1="0" scaleX="38619" scaleY="38619" translateX="0" translateY="0" type="MATRIX"/>
-          <colorTransform alphaAddTerm="0" alphaMultTerm="154" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
-        </item>
-        <item characterId="1" clipDepth="0" depth="2" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
-          <matrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="16" nTranslateBits="6" rotateSkew0="0" rotateSkew1="0" scaleX="24275" scaleY="24275" translateX="31" translateY="31" type="MATRIX"/>
-          <colorTransform alphaAddTerm="0" alphaMultTerm="154" blueAddTerm="0" blueMultTerm="256" greenAddTerm="0" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redAddTerm="0" redMultTerm="256" type="CXFORMWITHALPHA"/>
-        </item>
-        <item type="ShowFrameTag"/>
-      </subTags>
-    </item>
     <item type="SymbolClassTag">
       <tags>
         <item>2</item>
       </tags>
       <names>
-        <item>FlakeBalll</item>
+        <item>Flake</item>
       </names>
-    </item>
-    <item characterId="2" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
-      <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="3437" translateY="3698" type="MATRIX"/>
     </item>
     <item type="ShowFrameTag"/>
   </tags>

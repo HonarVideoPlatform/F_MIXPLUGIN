@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/freeTransfromText
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v4.0/overlays/freeTransfromText
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-11-11T08:08:43.124438Z
-3950
+2010-12-02T15:59:14.657733Z
+4026
 hila
 
 
@@ -26,50 +26,16 @@ hila
 
 09e43ab6-4768-4770-81d3-4e3a7c8fdb74
 
-freeTransformText.swf
-file
-
-
-
-
-2017-07-03T23:30:21.000000Z
-869ca42120e2685ed882c689356840cc
-2010-04-26T14:34:08.104001Z
-3138
-hila
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2536
-
 freeTransfromText.swf
 file
 
 
 
 
-2017-07-03T23:30:21.000000Z
-335ecab903df7b397342708dd16d3587
-2010-11-11T08:08:43.124438Z
-3950
+2017-07-03T23:30:25.000000Z
+98496ed87e88ea35acc791110ba5bf4d
+2010-12-02T15:59:14.657733Z
+4026
 hila
 has-props
 
@@ -92,7 +58,7 @@ has-props
 
 
 
-856365
+129895
 
 thumbnail.swf
 file
@@ -100,10 +66,10 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 526f0e11008812785e9b70e95b567480
-2010-11-11T07:53:45.279249Z
-3949
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -134,10 +100,10 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
-c23285d077c3e7689b50401e69988957
-2010-11-11T07:53:45.279249Z
-3949
+2017-07-03T23:30:25.000000Z
+aded3028f9437e654843e0f8ae900ac2
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -160,7 +126,7 @@ hila
 
 
 
-2353
+2527
 
 ui.xml
 file
@@ -168,10 +134,10 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 890506ad0e8a9079eef7d46e5b56e435
-2010-11-11T07:53:45.279249Z
-3949
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 

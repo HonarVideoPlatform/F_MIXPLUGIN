@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/masks
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v4.0/transitions/masks
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:38.000000Z
 6e161a666fcf3fc79e144b17604a1835
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -66,10 +66,10 @@ file
 
 
 
-2017-07-03T23:30:25.000000Z
+2017-07-03T23:30:38.000000Z
 99cedf0f4e1e417607d2089aa0a94a59
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 

@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/snow
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v4.0/overlays/snow
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:22.000000Z
-9bc54e35869d29fd6def264293b85b71
-2010-04-26T14:34:08.104001Z
-3138
+2017-07-03T23:30:27.000000Z
+883d515c62685442a507b12d403bddef
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -58,7 +58,41 @@ has-props
 
 
 
-407
+403
+
+FlakeShape.fla
+file
+
+
+
+
+2017-07-03T23:30:27.000000Z
+f8ac1880c0fc59f9bb742a928385f6c9
+2010-12-02T13:20:16.463329Z
+4014
+hila
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32768
 
 snow.swf
 file
@@ -66,10 +100,10 @@ file
 
 
 
-2017-07-03T23:30:22.000000Z
-f902153d2be63f809b27adeb6b199455
-2010-04-26T14:34:08.104001Z
-3138
+2017-07-03T23:30:27.000000Z
+c8f3d8e5234aa47ab0afbbe90b4eec93
+2010-12-02T13:20:16.463329Z
+4014
 hila
 has-props
 
@@ -92,7 +126,7 @@ has-props
 
 
 
-3025
+44115
 
 restrictions.xml
 file
@@ -100,10 +134,10 @@ file
 
 
 
-2017-07-03T23:30:22.000000Z
+2017-07-03T23:30:27.000000Z
 59006820b901f1cb628e086a20a12727
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 
@@ -134,10 +168,10 @@ file
 
 
 
-2017-07-03T23:30:22.000000Z
+2017-07-03T23:30:27.000000Z
 f252c1d82d75495e7c4256f48106840b
-2010-04-26T14:34:08.104001Z
-3138
+2010-12-02T13:20:16.463329Z
+4014
 hila
 
 

@@ -23,6 +23,13 @@
 			<id>height</id>
 		</restriction>
 		
+		<restriction type="number" default="1">
+			<id>textScaleX</id>
+		</restriction>
+		
+		<restriction type="number" default="1">
+			<id>textScaleY</id>
+		</restriction>
 		
 		<restriction type="number" default="0">
 			<id>textRotation</id>

@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/filling_bubbles
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/filling_bubbles
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 6e161a666fcf3fc79e144b17604a1835
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 has-props
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 6afe18aea1757d998e5fc98ef75c3481
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 dd590573d3670c59672cf005da080f84
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 18e66acd54e1bffb0ba18c4c3916ba33
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 cde2ca186093b0127b1d4465357b3b95
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/twisted_blinds
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/twisted_blinds
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 e843d006affd82fe8d9d020436ce7d78
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 444521184d08bd365a2129f34ddcb40e
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 2a73470fe02973392d97e1bb158faf2a
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -134,10 +134,10 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 6e161a666fcf3fc79e144b17604a1835
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 has-props
 
@@ -168,12 +168,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:25.000000Z
 4045a3515c11eb52b3274d9ae76ee9c2
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

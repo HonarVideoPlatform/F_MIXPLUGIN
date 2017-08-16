@@ -2,13 +2,13 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/heart
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/heart
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 6e161a666fcf3fc79e144b17604a1835
-2010-03-18T15:19:05.453164Z
-2918
+2010-04-26T14:34:08.104001Z
+3138
 hila
 has-props
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 642e55c1cf1ff44c9c35d4d2326ef170
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 f47214a1fda2bc6aa65e786f12babcb5
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 c40a82177f9b0b7506ad42a74af3ad80
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 2940d4490a90f1dbeb2416220cb3a2bb
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

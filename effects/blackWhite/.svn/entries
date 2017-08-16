@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/effects/blackWhite
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/effects/blackWhite
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,12 +32,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 2d4683d5b6118d389dfea8a308f7385a
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 cc4ed4085bd9a918bb91197ffe2a2c5b
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 c330d7cfbf7baa6c3d8a6d85af901d4b
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/CrossBurn
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/CrossBurn
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:24.000000Z
 334a0d4a7eff441cf079733d8f12fa5f
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:24.000000Z
 5f77be2f7c52952a7bf022018cb53257
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:24.000000Z
 2641ece6f47919b16d8b1d187d921ff2
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2017-07-03T23:30:20.000000Z
+2017-07-03T23:30:24.000000Z
 8ed94957b3448391424c5f290416d451
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 

@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/overlays/fallingLeaves
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/fallingLeaves
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:41:51.489970Z
-2507
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,12 +32,12 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 91506194bdcd4097c3fce32ac8fc8ee1
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 f6d969cb13b13ee04165e52d42fc5253
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 4c8fb77b3e52970ef15a4e4022a47b93
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,11 +134,11 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 4474e7b2439c521d9e9f53107ed859c4
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 

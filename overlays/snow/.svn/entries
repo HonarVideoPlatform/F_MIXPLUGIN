@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/overlays/snow
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/snow
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:41:51.489970Z
-2507
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 9bc54e35869d29fd6def264293b85b71
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 f902153d2be63f809b27adeb6b199455
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 59006820b901f1cb628e086a20a12727
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2017-07-03T23:30:07.000000Z
+2017-07-03T23:30:22.000000Z
 f252c1d82d75495e7c4256f48106840b
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

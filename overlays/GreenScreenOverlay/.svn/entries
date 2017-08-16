@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/overlays/GreenScreenOverlay
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/GreenScreenOverlay
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 de762f80d1a07dff0579dcb65872be27
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 611cece34a4b606bf1474aaad9af0a14
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 e32e1a2a2db12379c69736e58cc135de
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 

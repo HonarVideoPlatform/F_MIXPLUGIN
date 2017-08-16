@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/overlays/freeTransfromText
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/overlays/freeTransfromText
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-11-11T08:08:43.124438Z
+3950
+hila
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
+2017-07-03T23:30:21.000000Z
 869ca42120e2685ed882c689356840cc
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
-cbaae132aa44a96aaca1a917615387d1
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2017-07-03T23:30:21.000000Z
+335ecab903df7b397342708dd16d3587
+2010-11-11T08:08:43.124438Z
+3950
+hila
 has-props
 
 
@@ -92,7 +92,41 @@ has-props
 
 
 
-23662
+856365
+
+thumbnail.swf
+file
+
+
+
+
+2017-07-03T23:30:21.000000Z
+526f0e11008812785e9b70e95b567480
+2010-11-11T07:53:45.279249Z
+3949
+hila
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+817
 
 restrictions.xml
 file
@@ -100,12 +134,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
-bab46878afa03af1e468855b43d42b90
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2017-07-03T23:30:21.000000Z
+c23285d077c3e7689b50401e69988957
+2010-11-11T07:53:45.279249Z
+3949
+hila
 
 
 
@@ -126,7 +159,8 @@ has-props
 
 
 
-1155
+
+2353
 
 ui.xml
 file
@@ -134,12 +168,11 @@ file
 
 
 
-2017-07-03T23:30:04.000000Z
-73c1075ec76d23bff487bbecd2f60396
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2017-07-03T23:30:21.000000Z
+890506ad0e8a9079eef7d46e5b56e435
+2010-11-11T07:53:45.279249Z
+3949
+hila
 
 
 
@@ -160,5 +193,6 @@ has-props
 
 
 
-2103
+
+5470
 

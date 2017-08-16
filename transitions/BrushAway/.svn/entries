@@ -2,14 +2,14 @@
 
 dir
 8923
-svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v2.0/transitions/BrushAway
+svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod/flash/mixplugins/v3.0/transitions/BrushAway
 svn+ssh://svnread@kelev.kaltura.com/usr/local/kalprod
 
 
 
-2010-01-13T11:42:19.841369Z
-2508
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 3864c4cdcb34df0df10dc747c8692993
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 6f729389de54850756569ec83e100a78
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 fe47784043dbe4485e1f27ebf58f4b5c
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 bebfd97dd6ff48334103dba4f81a958e
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
-has-props
+2010-04-26T14:34:08.104001Z
+3138
+hila
+
 
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2017-07-03T23:30:21.000000Z
+2017-07-03T23:30:25.000000Z
 786bb6347c579d939818c874bde7d876
-2010-01-13T11:39:58.978166Z
-2506
-svnuser
+2010-04-26T14:34:08.104001Z
+3138
+hila
 has-props
 
 

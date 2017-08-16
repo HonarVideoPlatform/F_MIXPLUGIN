@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<swf compression="ZLIB" frameCount="1" frameRate="24.0" gfx="false" hasEndTag="true" type="SWF" version="9">
+  <!--WARNING: The structure of this XML is not final. In later versions of FFDec it can be changed.-->
+  <!--JPEXS Free Flash Decompiler v.10.0.0-->
+  <displayRect Xmax="10000" Xmin="0" Ymax="7500" Ymin="0" nbits="15" type="RECT"/>
+  <tags>
+    <item actionScript3="true" hasMetadata="true" noCrossDomainCache="false" reserved1="false" reserved2="false" reserved3="0" type="FileAttributesTag" useDirectBlit="false" useGPU="false" useNetwork="true"/>
+    <item type="MetadataTag">
+      <xmlMetadata type="String"><![CDATA[<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'><rdf:Description rdf:about='' xmlns:dc='http://purl.org/dc/elements/1.1'><dc:format>application/x-shockwave-flash</dc:format><dc:title>Adobe Flex 3 Application</dc:title><dc:description>http://www.adobe.com/products/flex</dc:description><dc:publisher>unknown</dc:publisher><dc:creator>unknown</dc:creator><dc:language>EN</dc:language><dc:date>Dec 28, 2009</dc:date></rdf:Description></rdf:RDF>]]></xmlMetadata>
+    </item>
+    <item passwordHash="$1$MZ$AgBzu9gFvNEF0RwuN3C9t1" reserved="6517" type="EnableDebugger2Tag"/>
+    <item debugId="0f2b2a7f8c5891077a7878800e9147fb" type="DebugIDTag"/>
+    <item maxRecursionDepth="1000" scriptTimeoutSeconds="60" type="ScriptLimitsTag"/>
+    <item type="SetBackgroundColorTag">
+      <backgroundColor blue="167" green="156" red="134" type="RGB"/>
+    </item>
+    <item buildHigh="0" buildLow="6955" compilationDateHigh="293" compilationDateLow="-738108337" edition="6" majorVersion="3" minorVersion="4" productID="3" type="ProductInfoTag"/>
+    <item name="swf_plugins_cvesdk_transitions_SoftWipe_Main" namedAnchor="false" type="FrameLabelTag"/>
+    <item shapeId="1" type="DefineShape3Tag">
+      <shapeBounds Xmax="2000" Xmin="0" Ymax="2000" Ymin="0" nbits="12" type="RECT"/>
+      <shapes numFillBits="4" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="13" nTranslateBits="14" rotateSkew0="0" rotateSkew1="0" scaleX="4000" scaleY="4000" translateX="5000" translateY="1000" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="0" type="GRADRECORD">
+                    <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="13" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="4000" scaleY="4000" translateX="1000" translateY="1000" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="0" type="GRADRECORD">
+                    <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="255" blue="102" green="102" red="102" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="0" blue="1" green="1" red="1" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="255" blue="1" green="1" red="1" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="255" blue="164" green="164" red="164" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="255" blue="0" green="0" red="0" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="255" blue="220" green="10" red="51" type="RGBA"/>
+            </item>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color alpha="0" blue="220" green="10" red="51" type="RGBA"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="10" lineStyle="0" moveBits="12" moveDeltaX="0" moveDeltaY="2000" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="0" deltaY="-2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="-2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="2" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="1" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="1" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item shapeId="3" type="DefineShapeTag">
+      <shapeBounds Xmax="2000" Xmin="0" Ymax="2000" Ymin="0" nbits="12" type="RECT"/>
+      <shapes numFillBits="2" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="0" type="FILLSTYLE">
+              <color blue="255" green="255" red="255" type="RGB"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="12" moveDeltaX="2000" moveDeltaY="2000" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="-2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="-2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="4" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="3" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="1" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item shapeId="5" type="DefineShape3Tag">
+      <shapeBounds Xmax="2000" Xmin="0" Ymax="2000" Ymin="0" nbits="12" type="RECT"/>
+      <shapes numFillBits="2" numLineBits="0" type="SHAPEWITHSTYLE">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item bitmapId="0" fillStyleType="16" type="FILLSTYLE">
+              <gradientMatrix hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="13" nTranslateBits="11" rotateSkew0="0" rotateSkew1="0" scaleX="4000" scaleY="4000" translateX="1000" translateY="1000" type="MATRIX"/>
+              <gradient interpolationMode="0" spreadMode="0" type="GRADIENT">
+                <gradientRecords>
+                  <item ratio="0" type="GRADRECORD">
+                    <color alpha="255" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                  <item ratio="255" type="GRADRECORD">
+                    <color alpha="0" blue="255" green="255" red="255" type="RGBA"/>
+                  </item>
+                </gradientRecords>
+              </gradient>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item fillStyle0="0" fillStyle1="1" lineStyle="0" moveBits="12" moveDeltaX="0" moveDeltaY="2000" numFillBits="0" numLineBits="0" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false" type="StyleChangeRecord"/>
+          <item deltaX="0" deltaY="-2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item deltaX="0" deltaY="2000" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="true"/>
+          <item deltaX="-2000" deltaY="0" generalLineFlag="false" numBits="10" type="StraightEdgeRecord" vertLineFlag="false"/>
+          <item endOfShape="0" type="EndShapeRecord"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item frameCount="1" hasEndTag="true" spriteId="6" type="DefineSpriteTag">
+      <subTags>
+        <item characterId="5" clipDepth="0" depth="1" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false" ratio="0" type="PlaceObject2Tag">
+          <matrix hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="1" rotateSkew0="0" rotateSkew1="0" scaleX="0" scaleY="0" translateX="0" translateY="0" type="MATRIX"/>
+        </item>
+        <item type="ShowFrameTag"/>
+      </subTags>
+    </item>
+    <item type="ExportAssetsTag">
+      <tags>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+      </tags>
+      <names>
+        <item>Empty</item>
+        <item>Fill</item>
+        <item>Gradient</item>
+      </names>
+    </item>
+    <item flags="1" name="frame1" type="DoABC2Tag">
+      <abc type="ABC">
+        <version major="46" minor="16" type="ABCVersion"/>
+        <constants type="AVM2ConstantPool">
+          <constant_int>
+            <item isNull="true"/>
+            <item>-1</item>
+          </constant_int>
+          <constant_uint/>
+          <constant_double/>
+          <constant_decimal/>
+          <constant_float/>
+          <constant_float4/>
+          <constant_string>
+            <item isNull="true"/>
+            <item/>
+            <item>com.kaltura.plugin.logic</item>
+            <item>Plugin</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:Main/create</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:Main/Main</item>
+            <item>void</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:SoftWipe/pluginAdded</item>
+            <item>Number</item>
+            <item>Boolean</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:SoftWipe/seekMedia</item>
+            <item>SoftWipe.as$55</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:SoftWipe/SoftWipe</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask/WipeMask</item>
+            <item>alpha</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask/private:configSizes</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask/private:configPosition</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask/setGradientScale</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask/setAngle</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_EmptyMask/WipeMask_EmptyMask</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_FillMask/WipeMask_FillMask</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_GradMask/WipeMask_GradMask</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe</item>
+            <item>Main</item>
+            <item>flash.display</item>
+            <item>Sprite</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:Main</item>
+            <item>create</item>
+            <item>SoftWipe</item>
+            <item>com.kaltura.plugin.logic.transitions</item>
+            <item>KTransition</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:SoftWipe</item>
+            <item>mask</item>
+            <item>WipeMask</item>
+            <item>seekMedia</item>
+            <item>pluginAdded</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask</item>
+            <item>EmptyMask</item>
+            <item>Class</item>
+            <item>setGradientScale</item>
+            <item>configPosition</item>
+            <item>_nMaskeeH</item>
+            <item>_empty</item>
+            <item>_gradient</item>
+            <item>setAngle</item>
+            <item>_nRealWidth</item>
+            <item>_nMaskeeW</item>
+            <item>_fill</item>
+            <item>_nMaskH</item>
+            <item>FillMask</item>
+            <item>configSizes</item>
+            <item>GradMask</item>
+            <item>_nRealHeight</item>
+            <item>_nMaskW</item>
+            <item>WipeMask_EmptyMask</item>
+            <item>mx.core</item>
+            <item>SpriteAsset</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_EmptyMask</item>
+            <item>WipeMask_FillMask</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_FillMask</item>
+            <item>WipeMask_GradMask</item>
+            <item>swf.plugins.cvesdk.transitions.SoftWipe:WipeMask_GradMask</item>
+            <item>C:\kdp3\FlashRoughcutTransitions\src;swf\plugins\cvesdk\transitions\SoftWipe;Main.as</item>
+            <item>Object</item>
+            <item>flash.events</item>
+            <item>EventDispatcher</item>
+            <item>DisplayObject</item>
+            <item>InteractiveObject</item>
+            <item>DisplayObjectContainer</item>
+            <item>C:\kdp3\FlashRoughcutTransitions\src;swf\plugins\cvesdk\transitions\SoftWipe;SoftWipe.as</item>
+            <item>scale</item>
+            <item>com.kaltura.plugin.logic.transitions:KTransition</item>
+            <item>_layers</item>
+            <item>current</item>
+            <item>width</item>
+            <item>height</item>
+            <item>com.kaltura.plugin.logic.properties</item>
+            <item>PropertyNumber</item>
+            <item>com.kaltura.plugin.logic:Plugin</item>
+            <item>_Properties</item>
+            <item>gradWidth</item>
+            <item>http://adobe.com/AS3/2006/builtin</item>
+            <item>flash.events:EventDispatcher</item>
+            <item>value</item>
+            <item>cacheAsBitmap</item>
+            <item>BlendMode</item>
+            <item>LAYER</item>
+            <item>blendMode</item>
+            <item>ALPHA</item>
+            <item>addChild</item>
+            <item>offset</item>
+            <item>original</item>
+            <item>direction</item>
+            <item>seekRatio</item>
+            <item>x</item>
+            <item>C:\kdp3\FlashRoughcutTransitions\src;swf\plugins\cvesdk\transitions\SoftWipe;WipeMask.as</item>
+            <item>nMaskeeWidth</item>
+            <item>nMaskeeHeight</item>
+            <item>maskeeWidth</item>
+            <item>angle</item>
+            <item>maskeeHeight</item>
+            <item>radAngle</item>
+            <item>newHeight</item>
+            <item>newWidth</item>
+            <item>Math</item>
+            <item>PI</item>
+            <item>cos</item>
+            <item>sin</item>
+            <item>rotation</item>
+            <item>y</item>
+          </constant_string>
+          <constant_namespace>
+            <item isNull="true"/>
+            <item kind="22" name_index="2" type="Namespace"/>
+            <item kind="22" name_index="1" type="Namespace"/>
+            <item kind="22" name_index="22" type="Namespace"/>
+            <item kind="22" name_index="24" type="Namespace"/>
+            <item kind="24" name_index="26" type="Namespace"/>
+            <item kind="22" name_index="29" type="Namespace"/>
+            <item kind="24" name_index="31" type="Namespace"/>
+            <item kind="5" name_index="31" type="Namespace"/>
+            <item kind="24" name_index="36" type="Namespace"/>
+            <item kind="5" name_index="36" type="Namespace"/>
+            <item kind="22" name_index="55" type="Namespace"/>
+            <item kind="24" name_index="57" type="Namespace"/>
+            <item kind="24" name_index="59" type="Namespace"/>
+            <item kind="24" name_index="61" type="Namespace"/>
+            <item kind="22" name_index="64" type="Namespace"/>
+            <item kind="24" name_index="71" type="Namespace"/>
+            <item kind="22" name_index="76" type="Namespace"/>
+            <item kind="24" name_index="78" type="Namespace"/>
+            <item kind="5" name_index="11" type="Namespace"/>
+            <item kind="23" name_index="22" type="Namespace"/>
+            <item kind="8" name_index="81" type="Namespace"/>
+            <item kind="26" name_index="31" type="Namespace"/>
+            <item kind="26" name_index="71" type="Namespace"/>
+            <item kind="26" name_index="78" type="Namespace"/>
+            <item kind="26" name_index="82" type="Namespace"/>
+            <item kind="26" name_index="63" type="Namespace"/>
+          </constant_namespace>
+          <constant_namespace_set>
+            <item isNull="true"/>
+            <item type="NamespaceSet">
+              <namespaces>
+                <item>8</item>
+                <item>3</item>
+                <item>2</item>
+                <item>19</item>
+                <item>20</item>
+                <item>21</item>
+                <item>7</item>
+                <item>22</item>
+                <item>23</item>
+                <item>24</item>
+                <item>25</item>
+                <item>26</item>
+              </namespaces>
+            </item>
+            <item type="NamespaceSet">
+              <namespaces>
+                <item>3</item>
+              </namespaces>
+            </item>
+          </constant_namespace_set>
+          <constant_multiname>
+            <item isNull="true"/>
+            <item kind="7" name_index="3" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="6" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="8" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="9" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="23" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="25" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="27" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="28" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="30" namespace_index="6" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="32" namespace_index="8" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="33" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="34" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="35" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="37" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="38" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="39" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="40" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="41" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="42" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="43" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="44" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="45" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="46" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="47" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="48" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="49" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="50" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="51" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="52" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="53" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="54" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="56" namespace_index="11" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="58" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="60" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="63" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="65" namespace_index="15" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="66" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="67" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="68" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="72" namespace_index="16" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="73" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="74" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="75" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="77" namespace_index="17" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="79" namespace_index="18" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="80" namespace_index="0" namespace_set_index="1" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="83" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="84" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="85" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="86" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="87" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="88" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="89" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="94" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="28" namespace_index="0" namespace_set_index="2" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="14" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="104" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="105" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="106" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="107" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="108" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="109" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="33" namespace_index="0" namespace_set_index="2" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="54" namespace_index="0" namespace_set_index="2" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="58" namespace_index="0" namespace_set_index="2" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="60" namespace_index="0" namespace_set_index="2" qname_index="0" type="Multiname"/>
+          </constant_multiname>
+        </constants>
+        <method_info>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="4" ret_type="1" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="5" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="7" ret_type="2" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="136" name_index="10" ret_type="2" type="MethodInfo">
+            <param_types>
+              <item>3</item>
+              <item>3</item>
+              <item>4</item>
+            </param_types>
+            <optional>
+              <item type="ValueKind" value_index="1" value_kind="3"/>
+              <item type="ValueKind" value_index="10" value_kind="10"/>
+            </optional>
+            <paramNames>
+              <item>11</item>
+              <item>11</item>
+              <item>11</item>
+            </paramNames>
+          </item>
+          <item flags="0" name_index="12" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="128" name_index="13" ret_type="2" type="MethodInfo">
+            <param_types>
+              <item>3</item>
+              <item>3</item>
+            </param_types>
+            <optional/>
+            <paramNames>
+              <item>14</item>
+              <item>14</item>
+            </paramNames>
+          </item>
+          <item flags="0" name_index="15" ret_type="2" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="16" ret_type="2" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="128" name_index="17" ret_type="2" type="MethodInfo">
+            <param_types>
+              <item>3</item>
+              <item>3</item>
+            </param_types>
+            <optional/>
+            <paramNames>
+              <item>14</item>
+              <item>14</item>
+            </paramNames>
+          </item>
+          <item flags="128" name_index="18" ret_type="2" type="MethodInfo">
+            <param_types>
+              <item>3</item>
+              <item>3</item>
+              <item>3</item>
+            </param_types>
+            <optional/>
+            <paramNames>
+              <item>14</item>
+              <item>14</item>
+              <item>14</item>
+            </paramNames>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="19" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="20" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="21" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+        </method_info>
+        <metadata_info/>
+        <instance_info>
+          <item flags="9" iinit_index="2" name_index="5" protectedNS="5" super_index="6" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="07010001" disp_id="0" fileOffset="3816" kindFlags="0" kindType="1" method_info="1" name_index="7" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="7" name_index="8" protectedNS="7" super_index="9" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="0a00000b00" fileOffset="3827" kindFlags="0" kindType="0" name_index="10" slot_id="0" type="TraitSlotConst" type_index="11" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="0c210006" disp_id="0" fileOffset="3832" kindFlags="2" kindType="1" method_info="6" name_index="12" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="0d210005" disp_id="0" fileOffset="3836" kindFlags="2" kindType="1" method_info="5" name_index="13" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="10" name_index="11" protectedNS="9" super_index="6" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="0e00000f00" fileOffset="3847" kindFlags="0" kindType="0" name_index="14" slot_id="0" type="TraitSlotConst" type_index="15" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1001000d" disp_id="0" fileOffset="3852" kindFlags="0" kindType="1" method_info="13" name_index="16" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="1101000c" disp_id="0" fileOffset="3856" kindFlags="0" kindType="1" method_info="12" name_index="17" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="1200000300" fileOffset="3860" kindFlags="0" kindType="0" name_index="18" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1300000600" fileOffset="3865" kindFlags="0" kindType="0" name_index="19" slot_id="0" type="TraitSlotConst" type_index="6" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1400000600" fileOffset="3870" kindFlags="0" kindType="0" name_index="20" slot_id="0" type="TraitSlotConst" type_index="6" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1501000e" disp_id="0" fileOffset="3875" kindFlags="0" kindType="1" method_info="14" name_index="21" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="1600000300" fileOffset="3879" kindFlags="0" kindType="0" name_index="22" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1700000300" fileOffset="3884" kindFlags="0" kindType="0" name_index="23" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1800000600" fileOffset="3889" kindFlags="0" kindType="0" name_index="24" slot_id="0" type="TraitSlotConst" type_index="6" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1900000300" fileOffset="3894" kindFlags="0" kindType="0" name_index="25" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1a00000f00" fileOffset="3899" kindFlags="0" kindType="0" name_index="26" slot_id="0" type="TraitSlotConst" type_index="15" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1b01000b" disp_id="0" fileOffset="3904" kindFlags="0" kindType="1" method_info="11" name_index="27" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="1c00000f00" fileOffset="3908" kindFlags="0" kindType="0" name_index="28" slot_id="0" type="TraitSlotConst" type_index="15" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1d00000300" fileOffset="3913" kindFlags="0" kindType="0" name_index="29" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="1e00000300" fileOffset="3918" kindFlags="0" kindType="0" name_index="30" slot_id="0" type="TraitSlotConst" type_index="3" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="17" name_index="31" protectedNS="12" super_index="32" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits/>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="20" name_index="33" protectedNS="13" super_index="32" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits/>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="23" name_index="34" protectedNS="14" super_index="32" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits/>
+            </instance_traits>
+          </item>
+        </instance_info>
+        <class_info>
+          <item cinit_index="0" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="4" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="9" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="16" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="19" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="22" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+        </class_info>
+        <script_info>
+          <item init_index="3" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="05040100" class_info="0" fileOffset="3959" kindFlags="0" kindType="4" name_index="5" slot_id="1" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="8" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="08040001" class_info="1" fileOffset="3965" kindFlags="0" kindType="4" name_index="8" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="15" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="0b040002" class_info="2" fileOffset="3971" kindFlags="0" kindType="4" name_index="11" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="18" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="1f040003" class_info="3" fileOffset="3977" kindFlags="0" kindType="4" name_index="31" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="21" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="21040004" class_info="4" fileOffset="3983" kindFlags="0" kindType="4" name_index="33" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="24" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="22040005" class_info="5" fileOffset="3989" kindFlags="0" kindType="4" name_index="34" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+        </script_info>
+        <bodies>
+          <item codeBytes="d03047" init_scope_depth="8" max_regs="1" max_scope_depth="9" max_stack="1" method_info="0" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f13ef009d030f00b5d084a080048" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="1" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f13ef00ed030f00fd04900f01047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="2" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030f13ef0076500602330602430602530602630602730600630600658001d1d1d1d1d1d6805f13ef00147" init_scope_depth="1" max_regs="1" max_scope_depth="8" max_stack="2" method_info="3" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="6" max_regs="1" max_scope_depth="7" max_stack="1" method_info="4" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f145f021d030ef01460024f0235e0a5d0b60286629662a60286629662b4a0b02680af0245d2c602d662e462c01662f75d5f025600ad160286629662a4f1002f02760286629266130f02860286629603166326133f029600a603166346133f02a600a266130f02c60286629600a4f3501f02d47" init_scope_depth="7" max_regs="2" max_scope_depth="8" max_stack="4" method_info="5" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f145f02ed030ef015a002eef015b012eef015c022eef015d0330f030d1756304f031600a620490600a662a60286629662aa1a26136f03347" init_scope_depth="7" max_regs="5" max_scope_depth="8" max_stack="4" method_info="6" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f145f02ed030d04900f03547" init_scope_depth="7" max_regs="1" max_scope_depth="8" max_stack="1" method_info="7" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030f145f01e5d37602330602430600130600930600958011d1d1d1d6808f145f01747" init_scope_depth="1" max_regs="1" max_scope_depth="6" max_stack="2" method_info="8" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="8" max_regs="1" max_scope_depth="9" max_stack="1" method_info="9" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f15ff031d030ef01600031ef01610131f01e5e1a6021681af0205e1c6022681cf0225e0e601f680ef0245e185d1a4a1a006006876818f0255e145d1c4a1c006006876814f0265e135d0e4a0e006006876813f031d04900f0335e17d16817f0345e12d26812f0355e1e6017681ef0365e1960126819f0385d3560184f3501f0395d3560144f3501f03a601324646138f03b5d3560134f3501f03d5d1b4f1b00f03e5d114f1100f0405e16d0662a6816f0415e1dd0662b681df04247" init_scope_depth="9" max_regs="3" max_scope_depth="10" max_stack="3" method_info="10" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f15ff043d030f04560186017612af04660186012612bf0476014601e612af04860146019612bf04960136017612af04a60136012612bf04b47" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="2" method_info="11" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f15ff04dd030f04f601824006136f05060146018662a6136f0516013601466366014662aa06136f05247" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="3" method_info="12" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f15ff054d030ef01460054ef01620154f0566014d1d2a2612af0575d114f1100f05847" init_scope_depth="9" max_regs="3" max_scope_depth="10" max_stack="3" method_info="13" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f15ff059d030ef01630059ef01620159ef01640259ef0165035bef0166045cef0167055ef05bd16039663aa225b401a3756304f05c601d60396204463b01a3756305f05e601660396204463b01a3756306f05f620524026206a260396204463c01a2a0756305f060d06206612af061d06205612bf062d0d1613df063d062069060396204463c01a2613ef06547" init_scope_depth="9" max_regs="7" max_scope_depth="10" max_stack="4" method_info="14" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030f15ff01b5d3f602330602430602530602630602730600630600658021d1d1d1d1d1d680bf15ff01747" init_scope_depth="1" max_regs="1" max_scope_depth="8" max_stack="2" method_info="15" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="16" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="17" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0305d40602330602430602530602630602730600630602030602058031d1d1d1d1d1d1d681f47" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="18" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="19" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="20" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0305d41602330602430602530602630602730600630602030602058041d1d1d1d1d1d1d682147" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="21" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="22" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030d0490047" init_scope_depth="10" max_regs="1" max_scope_depth="11" max_stack="1" method_info="23" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d0305d42602330602430602530602630602730600630602030602058051d1d1d1d1d1d1d682247" init_scope_depth="1" max_regs="1" max_scope_depth="9" max_stack="2" method_info="24" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+        </bodies>
+      </abc>
+    </item>
+    <item type="SymbolClassTag">
+      <tags>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>0</item>
+      </tags>
+      <names>
+        <item>swf.plugins.cvesdk.transitions.SoftWipe.WipeMask_EmptyMask</item>
+        <item>swf.plugins.cvesdk.transitions.SoftWipe.WipeMask_FillMask</item>
+        <item>swf.plugins.cvesdk.transitions.SoftWipe.WipeMask_GradMask</item>
+        <item>swf.plugins.cvesdk.transitions.SoftWipe.Main</item>
+      </names>
+    </item>
+    <item type="ShowFrameTag"/>
+  </tags>
+</swf>

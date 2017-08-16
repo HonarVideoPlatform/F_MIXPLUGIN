@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<swf compression="ZLIB" frameCount="1" frameRate="24.0" gfx="false" hasEndTag="true" type="SWF" version="9">
+  <!--WARNING: The structure of this XML is not final. In later versions of FFDec it can be changed.-->
+  <!--JPEXS Free Flash Decompiler v.10.0.0-->
+  <displayRect Xmax="10000" Xmin="0" Ymax="7500" Ymin="0" nbits="15" type="RECT"/>
+  <tags>
+    <item actionScript3="true" hasMetadata="true" noCrossDomainCache="false" reserved1="false" reserved2="false" reserved3="0" type="FileAttributesTag" useDirectBlit="false" useGPU="false" useNetwork="true"/>
+    <item type="MetadataTag">
+      <xmlMetadata type="String"><![CDATA[<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'><rdf:Description rdf:about='' xmlns:dc='http://purl.org/dc/elements/1.1'><dc:format>application/x-shockwave-flash</dc:format><dc:title>Adobe Flex 3 Application</dc:title><dc:description>http://www.adobe.com/products/flex</dc:description><dc:publisher>unknown</dc:publisher><dc:creator>unknown</dc:creator><dc:language>EN</dc:language><dc:date>Dec 28, 2009</dc:date></rdf:Description></rdf:RDF>]]></xmlMetadata>
+    </item>
+    <item passwordHash="$1$nF$wTfpKMRFoy7rLlVfFDm2l." reserved="6517" type="EnableDebugger2Tag"/>
+    <item debugId="d082c5290723845c5fc16b8b298f144b" type="DebugIDTag"/>
+    <item maxRecursionDepth="1000" scriptTimeoutSeconds="60" type="ScriptLimitsTag"/>
+    <item type="SetBackgroundColorTag">
+      <backgroundColor blue="167" green="156" red="134" type="RGB"/>
+    </item>
+    <item buildHigh="0" buildLow="6955" compilationDateHigh="293" compilationDateLow="-738107571" edition="6" majorVersion="3" minorVersion="4" productID="3" type="ProductInfoTag"/>
+    <item name="swf_plugins_cvesdk_effects_emboss_Main" namedAnchor="false" type="FrameLabelTag"/>
+    <item flags="1" name="frame1" type="DoABC2Tag">
+      <abc type="ABC">
+        <version major="46" minor="16" type="ABCVersion"/>
+        <constants type="AVM2ConstantPool">
+          <constant_int/>
+          <constant_uint/>
+          <constant_double/>
+          <constant_decimal/>
+          <constant_float/>
+          <constant_float4/>
+          <constant_string>
+            <item isNull="true"/>
+            <item/>
+            <item>com.kaltura.plugin.logic</item>
+            <item>Plugin</item>
+            <item>swf.plugins.cvesdk.effects.emboss:Main/create</item>
+            <item>swf.plugins.cvesdk.effects.emboss:Main/Main</item>
+            <item>void</item>
+            <item>swf.plugins.cvesdk.effects.emboss:emboss/pluginAdded</item>
+            <item>Number</item>
+            <item>swf.plugins.cvesdk.effects.emboss:emboss/detach</item>
+            <item>matrixY</item>
+            <item>swf.plugins.cvesdk.effects.emboss:emboss/emboss</item>
+            <item>swf.plugins.cvesdk.effects.emboss</item>
+            <item>Main</item>
+            <item>flash.display</item>
+            <item>Sprite</item>
+            <item>swf.plugins.cvesdk.effects.emboss:Main</item>
+            <item>create</item>
+            <item>emboss</item>
+            <item>com.kaltura.plugin.logic.effects</item>
+            <item>KEffect</item>
+            <item>swf.plugins.cvesdk.effects.emboss:emboss</item>
+            <item>detach</item>
+            <item>_emboss</item>
+            <item>flash.filters</item>
+            <item>ConvolutionFilter</item>
+            <item>pluginAdded</item>
+            <item>C:\kdp3\FlashRoughcutTransitions\src;swf\plugins\cvesdk\effects\emboss;Main.as</item>
+            <item>Object</item>
+            <item>flash.events</item>
+            <item>EventDispatcher</item>
+            <item>DisplayObject</item>
+            <item>InteractiveObject</item>
+            <item>DisplayObjectContainer</item>
+            <item>C:\kdp3\FlashRoughcutTransitions\src;swf\plugins\cvesdk\effects\emboss;emboss.as</item>
+            <item>kernals</item>
+            <item>Array</item>
+            <item>bias</item>
+            <item>matrix</item>
+            <item>matrixX</item>
+            <item>divisor</item>
+            <item>com.kaltura.plugin.logic.effects:KEffect</item>
+            <item>_playerDisplay</item>
+            <item>filters</item>
+            <item>nScreenWidth</item>
+            <item>nScreenHeight</item>
+            <item>nX</item>
+            <item>nY</item>
+          </constant_string>
+          <constant_namespace>
+            <item isNull="true"/>
+            <item kind="22" name_index="2" type="Namespace"/>
+            <item kind="22" name_index="1" type="Namespace"/>
+            <item kind="22" name_index="12" type="Namespace"/>
+            <item kind="22" name_index="14" type="Namespace"/>
+            <item kind="24" name_index="16" type="Namespace"/>
+            <item kind="22" name_index="19" type="Namespace"/>
+            <item kind="24" name_index="21" type="Namespace"/>
+            <item kind="5" name_index="21" type="Namespace"/>
+            <item kind="22" name_index="24" type="Namespace"/>
+            <item kind="22" name_index="29" type="Namespace"/>
+            <item kind="24" name_index="41" type="Namespace"/>
+          </constant_namespace>
+          <constant_namespace_set>
+            <item isNull="true"/>
+            <item type="NamespaceSet">
+              <namespaces>
+                <item>3</item>
+              </namespaces>
+            </item>
+          </constant_namespace_set>
+          <constant_multiname>
+            <item isNull="true"/>
+            <item kind="7" name_index="3" namespace_index="1" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="6" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="8" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="13" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="15" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="17" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="18" namespace_index="3" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="20" namespace_index="6" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="22" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="23" namespace_index="8" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="25" namespace_index="9" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="26" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="28" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="30" namespace_index="10" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="31" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="32" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="33" namespace_index="4" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="36" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="37" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="38" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="39" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="10" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="40" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="42" namespace_index="11" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="7" name_index="43" namespace_index="2" namespace_set_index="0" qname_index="0" type="Multiname"/>
+            <item kind="9" name_index="18" namespace_index="0" namespace_set_index="1" qname_index="0" type="Multiname"/>
+          </constant_multiname>
+        </constants>
+        <method_info>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="4" ret_type="1" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="5" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="7" ret_type="2" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="128" name_index="9" ret_type="2" type="MethodInfo">
+            <param_types>
+              <item>3</item>
+              <item>3</item>
+              <item>3</item>
+              <item>3</item>
+            </param_types>
+            <optional/>
+            <paramNames>
+              <item>10</item>
+              <item>10</item>
+              <item>10</item>
+              <item>10</item>
+            </paramNames>
+          </item>
+          <item flags="0" name_index="11" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+          <item flags="0" name_index="1" ret_type="0" type="MethodInfo">
+            <param_types/>
+            <optional/>
+            <paramNames/>
+          </item>
+        </method_info>
+        <metadata_info/>
+        <instance_info>
+          <item flags="9" iinit_index="2" name_index="4" protectedNS="5" super_index="5" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="06010001" disp_id="0" fileOffset="1743" kindFlags="0" kindType="1" method_info="1" name_index="6" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+          <item flags="9" iinit_index="7" name_index="7" protectedNS="7" super_index="8" type="InstanceInfo">
+            <interfaces/>
+            <instance_traits type="Traits">
+              <traits>
+                <item bytes="09210006" disp_id="0" fileOffset="1754" kindFlags="2" kindType="1" method_info="6" name_index="9" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+                <item bytes="0a00000b00" fileOffset="1758" kindFlags="0" kindType="0" name_index="10" slot_id="0" type="TraitSlotConst" type_index="11" value_index="0" value_kind="0">
+                  <metadata/>
+                </item>
+                <item bytes="0c210005" disp_id="0" fileOffset="1763" kindFlags="2" kindType="1" method_info="5" name_index="12" type="TraitMethodGetterSetter">
+                  <metadata/>
+                </item>
+              </traits>
+            </instance_traits>
+          </item>
+        </instance_info>
+        <class_info>
+          <item cinit_index="0" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+          <item cinit_index="4" type="ClassInfo">
+            <static_traits type="Traits">
+              <traits/>
+            </static_traits>
+          </item>
+        </class_info>
+        <script_info>
+          <item init_index="3" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="04040100" class_info="0" fileOffset="1774" kindFlags="0" kindType="4" name_index="4" slot_id="1" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+          <item init_index="8" type="ScriptInfo">
+            <traits type="Traits">
+              <traits>
+                <item bytes="07040001" class_info="1" fileOffset="1780" kindFlags="0" kindType="4" name_index="7" slot_id="0" type="TraitClass">
+                  <metadata/>
+                </item>
+              </traits>
+            </traits>
+          </item>
+        </script_info>
+        <bodies>
+          <item codeBytes="d03047" init_scope_depth="8" max_regs="1" max_scope_depth="9" max_stack="1" method_info="0" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f11bf009d030f00b5d074a070048" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="1" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f11bf00ed030f00fd04900f01047" init_scope_depth="9" max_regs="1" max_scope_depth="10" max_stack="1" method_info="2" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030f11bf0076500600d30600e30600f30601030601130600530600558001d1d1d1d1d1d6804f11bf00147" init_scope_depth="1" max_regs="1" max_scope_depth="8" max_stack="2" method_info="3" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d03047" init_scope_depth="6" max_regs="1" max_scope_depth="7" max_stack="1" method_info="4" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f122f022d030ef01230025f024d04e0c00f02524002a2af026240024012400f02724002a24ff56098012d5f028600a2580016113f029600ad16114f02a600a24036115f02b600a24036116f02c600a24006117f02e6018600a56016119f03047" init_scope_depth="7" max_regs="2" max_scope_depth="8" max_stack="9" method_info="5" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f122f032d030ef012c0032ef012d0132ef012e0232ef012f0332f0346018206119f03547" init_scope_depth="7" max_regs="5" max_scope_depth="8" max_stack="2" method_info="6" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="f122f032d030f0205e0a5d0b4a0b00680ad04900f03847" init_scope_depth="7" max_regs="1" max_scope_depth="8" max_stack="2" method_info="7" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+          <item codeBytes="d030f122f01e5d1a600d30600e30600130600830600858011d1d1d1d6807f122f01747" init_scope_depth="1" max_regs="1" max_scope_depth="6" max_stack="2" method_info="8" type="MethodBody">
+            <exceptions/>
+            <traits type="Traits">
+              <traits/>
+            </traits>
+          </item>
+        </bodies>
+      </abc>
+    </item>
+    <item type="SymbolClassTag">
+      <tags>
+        <item>0</item>
+      </tags>
+      <names>
+        <item>swf.plugins.cvesdk.effects.emboss.Main</item>
+      </names>
+    </item>
+    <item type="ShowFrameTag"/>
+  </tags>
+</swf>
